@@ -1,0 +1,3 @@
+Tabuada do 9
+Primeiro um numero de 0 a 10 menos 1. Depois Este numero multiplicado por 10. Depois o resultado somado com a diferença entre 10 e
+o número do primeiro caso

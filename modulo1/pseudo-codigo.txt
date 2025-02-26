@@ -1,0 +1,12 @@
+Algoritimo Tabuada de 9
+  Var numero = 0 
+Início 
+  Enquanto numero <= 10
+    Resultado = (numero-1) * 10 + (10-numero)
+    Escreva "9 x ",numero," = ",Resultado
+    Resutado = Resultado + 1 
+Fim
+
+
+
+
